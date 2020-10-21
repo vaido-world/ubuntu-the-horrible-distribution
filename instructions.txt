@@ -1,0 +1,37 @@
+Software update
+Google Chrome install
+Add Lithuanian keyboard input layout
+Install Dash To Panel Extension
+Change Dash To Panel: Behaviour -> show window preview on hover -> settings icon -> Window previews prefered size: 240px -> 160px
+
+Install Desktop Icons ng (ding) extension
+
+sudo apt install gnome-shell-extension-prefs
+Disabled the old Desktop Icons extension
+
+Manually changed the position of newly created instruction.txt file to align with others on the desktop vertically.
+
+Change Desktop icons ng extension settings -> settings -> Size of the desktop icons: Standard -> small
+
+Change Desktop icons ng extension settings -> settings ->  Highlight the drop place during Drag'n'nDrop -> off 
+
+Install Dimm Desktop 70
+
+Activated bookmarks bar on Google Chrome
+
+Added Ublock Origins Extension To the Google Chrome 
+
+Added links to the users Desktops on Windows operating system In Nautilus
+
+Change Dash To Panel: Style -> Panel Size: 48 -> 45px
+
+Installed Gnome Drawing 
+Pinned as a shortcut to the Dash To Panel
+
+Missing templates from the Nautilus for the Desktop Icons extension
+
+Turned on Hidden files in the Nautilus via combination CTRL + H
+
+There is a need for making VLC a default media player on several file formats
+
+I installed GImp 

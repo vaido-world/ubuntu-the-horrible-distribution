@@ -1,0 +1,24 @@
+vaidas@vaidas-SATELLITE-L855:~$ echo 1 | sudo tee /sys/class/drm/card0-LVDS-1/radeon_bl0/brightness
+[sudo] password for vaidas: 
+1
+vaidas@vaidas-SATELLITE-L855:~$ echo battery | sudo tee /sys/class/drm/card0/device/power_dpm_state
+[sudo] password for vaidas: 
+battery
+vaidas@vaidas-SATELLITE-L855:~$ echo low | sudo tee /sys/class/drm/card0/device/power_dpm_force_performance_level
+low
+vaidas@vaidas-SATELLITE-L855:~$ echo 35 | sudo tee /sys/devices/system/cpu/intel_pstate/max_perf_pct
+35
+vaidas@vaidas-SATELLITE-L855:~$ cat /sys/devices/system/cpu/cpu*/cpufreq/scaling_max_freq
+3400000
+3400000
+3400000
+3400000
+3400000
+3400000
+3400000
+3400000
+vaidas@vaidas-SATELLITE-L855:~$ echo 1200000 | sudo tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_max_freq
+1200000
+vaidas@vaidas-SATELLITE-L855:~$ 
+
+         
