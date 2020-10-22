@@ -34,4 +34,8 @@ Turned on Hidden files in the Nautilus via combination CTRL + H
 
 There is a need for making VLC a default media player on several file formats
 
-I installed GImp 
+I installed Gimp
+
+Added Dark Mode extension to Google Chrome
+Added Gnome Shell Integration Extension to Google Chrome
+Made Ublock Origin available in Incognito
